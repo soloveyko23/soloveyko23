@@ -1,16 +1,23 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32F76D&height=30&lines=Hi+%F0%9F%91%8B%2C+I'm+Maksym+and+I'm+a+Front-end+Developer)](https://git.io/typing-svg)
+<h2 align="left">My Skills</h5>
 
-<!--
-**soloveyko23/soloveyko23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. HTML5, CSS3, jQuery.
+2. Cross-browser compatibility (Chrome 54+, Firefox 50+, Safari Mac OS 8+, Opera 41+, Yandex 14.12+, iOS, Android, Windows Phone).
+3. Block fixed / fluid layout.
+4. Adaptive layout.
+5. Bootstrap 4.5
+6. Flexbox / Grid
+7. LESS / SCSS
+8. Pug
+9. Gulp
+10. Webpack
+11. Parallax scrolling.
+12. Writing simple, readable, valid code.
+13. Use of modern image formats.
+14. Connecting non-standard fonts (@ font-face, google web fonts)
+15. Icon font
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">My Links</h5>
+<p><b>Telegram:</b> <a href="https://t.me/solovey94">@solovey94</a></p>
+<p><b>E-mail:</b> <a href="mailto:solm2926@gmail.com">solm2926@gmail.com</a></p>
+<p><b>Start working with me:</b> <a href="weblancer.net">test</a></p>
