@@ -22,5 +22,5 @@
 <p><b>E-mail:</b> <a href="mailto:solm2926@gmail.com">solm2926@gmail.com</a></p>
 <p><b>Start working with me:</b> <a href="https://www.weblancer.net/job_form/?type=project&userslist[]=maxim_soloviov">weblancer.net</a></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soloveyko23)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloveyko23)](https://github.com/anuraghazra/github-readme-stats)
 
