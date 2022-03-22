@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32F76D&width=570&height=30&lines=Hi+%F0%9F%91%8B%2C+I'm+Maksym+and+I'm+a+Front-end+Developer)](https://git.io/typing-svg)
 <h2 align="left">My Skills</h5>
 
-1. HTML5, CSS3, jQuery.
+1. HTML5, CSS3, JS, jQuery.
 2. Cross-browser compatibility (Chrome 54+, Firefox 50+, Safari Mac OS 8+, Opera 41+, Yandex 14.12+, iOS, Android, Windows Phone).
 3. Block fixed / fluid layout.
 4. Adaptive layout.
